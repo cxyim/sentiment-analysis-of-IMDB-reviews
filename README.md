@@ -20,7 +20,9 @@ This project includes several steps:
 (5) Compare result of different models
 
 dataset includes: 
+
 | movie | title | rate | author | date | content | label |
+| :-----| :-----|:-----|:-----|:-----|:-----|:-----|
 
 
 
