@@ -23,7 +23,7 @@ dataset includes:
 
 | movie | title | rate | author | date | content | label |
 | :-----| :-----|:-----|:-----|:-----|:-----|:-----|
-| Blood Diamond | One word: Superb | 9/10 | D_Mas_2000 | 2007/10/8 | A wonderful movie, wish I would have seen this movie earlier! Blood Diamond brought together a variety of different aspects. |
+| Blood Diamond | One word: Superb | 9/10 | D_Mas | 2007/10/8 | A wonderful movie, wish I would have seen this movie earlier! Blood Diamond brought together a variety of different aspects. | pos |
 
 
 result: predicted label (pos or neg)
