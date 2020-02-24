@@ -14,3 +14,8 @@ This project includes several steps:
 (4) Model training: Use classification algorithm including random forest, SVM, deep learning, etc.
 
 (5) Compare result of different models
+
+dataset includes: 
+movie, title, rate, author, date, content
+
+result: predicted label (pos or neg)
