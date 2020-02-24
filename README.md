@@ -1,6 +1,10 @@
 # sentiment-analysis-of-IMDB-reviews
 Sentiment analysis of Leonardo's film reviews
 
+web crawler: [SeleniumScrapper.py](https://github.com/cxyim/sentiment-analysis-of-IMDB-reviews/blob/master/SeleniumScrapper.py)
+
+data preprocessing and model training: [final.ipynb](https://github.com/cxyim/sentiment-analysis-of-IMDB-reviews/blob/master/final.ipynb)
+
 This project aims to apply the machine learning models to analyse the sentiment of Leonardo’s films.
 
 This project includes several steps:
